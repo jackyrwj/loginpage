@@ -140,7 +140,7 @@ export default function SignUpPage() {
       <div className="relative w-1/2">
         <div className="absolute inset-0 overflow-hidden rounded-l-[45px]">
           <Image
-            src="/background.jpg"
+            src="/background.png"
             alt="Background"
             fill
             className="object-cover"
